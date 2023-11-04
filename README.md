@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Java, JavaScript, HTML && CSS**
 
-- 📫 How to reach me **guilherme.santos96@hotmail.com**
+- 📫 How to reach me **guilherme96_silva@outlook.pt**
 
 - ⚡ Fun fact **I am an avid music enjoyer!**
 

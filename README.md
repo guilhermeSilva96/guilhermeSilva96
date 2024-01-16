@@ -26,3 +26,20 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=guilhermesilva96&show_icons=true&locale=en&layout=compact" alt="guilhermesilva96" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=guilhermesilva96&show_icons=true&locale=en" alt="guilhermesilva96" /></p>
+
+<h2>- Take a peek at some projects I have completed so far: </h2>
+
+  <h3>- A full stack CRM Application:</h3>
+    ![CRM-Screenshot](https://github.com/guilhermeSilva96/PaintGame/assets/139381851/55f36e3c-c300-4bd9-9966-5a16dd4d4e9b)
+
+ <h3> - Game Projects:</h3>
+    ![Background AlienInvaders](https://github.com/guilhermeSilva96/AlienInvaders/assets/139381851/96d37b7d-2457-412f-ae2c-83fdfb29ed3f)
+    
+    ![PaintGameImg](https://github.com/guilhermeSilva96/PaintGame/assets/139381851/9dc44f3c-0a50-4246-bdf8-b714d9846f1a)
+
+ <h3>- A Random Joke Generator using JokeAPI:</h3>
+    ![JokesWebApp](https://github.com/guilhermeSilva96/JokesWebApp/assets/139381851/3052e864-a0d0-4822-ad6a-893d41d2a967)
+
+ <h3> - A pizza ordering Front-End design with React:</h3>
+    ![PizzaMenu](https://github.com/guilhermeSilva96/PizzaMenu/assets/139381851/cb13c26a-dfb5-4253-93dc-023eaafdec63)
+
